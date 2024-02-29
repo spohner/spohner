@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **spohner/spohner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # 👋 Hi there, I'm Steffen!
 
 I'm a passionate Cloud Native Developer with a knack for designing, building, and maintaining next-generation cloud applications. I have a deep understanding of cloud computing technologies, business drivers, and emerging computing trends. I specialize in leveraging Kubernetes, Docker, and other cloud-native tools to deliver robust, scalable, and secure software solutions.
