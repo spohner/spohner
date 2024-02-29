@@ -21,11 +21,6 @@ I'm a passionate Cloud Native Developer with a knack for designing, building, an
 
 🌍 Beyond cloud computing, I have a keen interest in Geographic Information Systems (GIS) and mapping technologies. I love working on projects that intersect the world of cloud computing and geospatial analysis, creating solutions that help us understand and navigate our world better.
 
-## 🛠 Skills
-- Cloud Native Development
-- Kubernetes, Docker
-- GIS and Mapping
-
 ## 🤝 I’m looking for help with ...
 - Interesting open-source projects related to Cloud Native and GIS
 
